@@ -1,1 +1,7 @@
-Python, Librosa, Scikit-learn, TensorFlow/Keras, NumPy, Matplotlib, Seaborn
+Python
+Librosa
+Scikit-learn
+TensorFlow
+NumPy
+Matplotlib
+Seaborn
