@@ -1,4 +1,3 @@
-Python
 Librosa
 Scikit-learn
 TensorFlow
